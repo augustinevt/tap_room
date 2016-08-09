@@ -1,0 +1,40 @@
+body {
+  background-color: #631;
+  background-image: url(http://www.mobygames.com/images/shots/l/293820-sea-legends-dos-screenshot-tavern.png);
+  background-size: cover;
+  color: white;
+
+}
+
+.each-keg {
+   border: solid 10px;
+   border-color: gold;
+   background-color: #462513;
+   color: #FAFAF0;
+   width: 40vw;
+   text-align: center;
+   margin: auto;
+   margin-top: 20px;
+   padding: 10px;
+}
+
+.container {
+  text-align: center;
+}
+
+.each-keg:hover {
+  background-color: #592815;
+  color: #F3F3E4;
+}
+
+.medium {
+  border-color: #ff7504;
+}
+
+.cheap {
+  border-color: red;
+}
+
+.keg-display {
+  border: solid;
+}
